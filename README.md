@@ -33,3 +33,6 @@ It creates:
 
 ## Notes
 This lab was built step by step to understand how Terraform manages AWS infrastructure as code in a practical way.
+## Screenshot
+
+![EC2 Instances](images/aws-ec2.png)
